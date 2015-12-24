@@ -1,0 +1,14 @@
+{
+  "name": "Facebook Top Menu",
+  "description": "Facebook menu always on top. 
+  If addon doesn't work push it when FB app is opened.",
+  "developer": {
+    "name": "Nino Vranešič - elnino.si"
+  },
+  "package_path": "extension.zip",
+  "icons": {
+	"32": "/style/icons/32.png",
+  "60": "/style/icons/60.png",
+	"128": "/style/icons/128.png"
+  }
+}
