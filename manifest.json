@@ -5,13 +5,14 @@
   "version": "1.0",
   "author": "Nino Vranešič - elnino.si",
   "content_scripts": [{
-    "matches": ["https://m.facebook.com/"],
-    "css": [""],
+    "matches": [
+    "https://m.facebook.com/*"],
+    "css": [],
     "js": ["menu.js"]
   }],
   "icons": {
 	"32": "/style/icons/32.png",
-    "60": "/style/icons/60.png",
+  "60": "/style/icons/60.png",
 	"128": "/style/icons/128.png"
   }
 }
