@@ -1,7 +1,7 @@
 {
-  "manifest_version": 1,
+  "manifest_version": 2,
   "name": "Facebook Top Menu",
-  "description": "Facebook menu always on top.",
+  "description": "Facebook menu always on top in Facebook app, like on Android app.",
   "version": "1.0",
   "author": "Nino Vranešič - elnino.si",
   "content_scripts": [{
