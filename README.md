@@ -1,4 +1,4 @@
-# FXOS-FB-MenuTop-Addon
+# FXOS-FB-MenuTop-Add-on
 Firefox OS add-on for Facebook app - menu always stays on top.
 
 Left picture without add-on, right picture with add-on installed.
