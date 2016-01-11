@@ -11,7 +11,7 @@ var input;
  
     function fixedheader () {   
      header = document.querySelector('._52z5');
-     input = document.querySelector('._15nx');
-     input.style.marginTop = '15%';
+     input = document.querySelector('._55wr');
+     input.style.paddingTop = '14%';
      header.style.position = 'fixed';
     }  

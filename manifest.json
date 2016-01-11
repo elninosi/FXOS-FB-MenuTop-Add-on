@@ -5,8 +5,7 @@
   "version": "1.0",
   "author": "Nino Vranešič - elnino.si",
   "content_scripts": [{
-    "matches": [
-    "https://m.facebook.com/*"],
+    "matches": ["app://homescreen.gaiamobile.org/manifest.webapp", "*://m.facebook.com/*"],
     "css": [],
     "js": ["menu.js"]
   }],
