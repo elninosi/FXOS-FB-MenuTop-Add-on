@@ -2,10 +2,10 @@
   "manifest_version": 2,
   "name": "Facebook Top Menu",
   "description": "Facebook menu always on top in Facebook app, like on Android app.",
-  "version": "1.0",
+  "version": "1.0.1",
   "author": "Nino Vranešič - elnino.si",
   "content_scripts": [{
-    "matches": ["app://homescreen.gaiamobile.org/manifest.webapp", "*://m.facebook.com/*"],
+    "matches": ["app://homescreen.gaiamobile.org/manifest.webapp", "*://m.facebook.com/*", "*://lm.facebook.com/*", "*://mobile.facebook.com/*", "*://touch.facebook.com/*"],
     "css": [],
     "js": ["menu.js"]
   }],
